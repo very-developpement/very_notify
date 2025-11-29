@@ -132,7 +132,7 @@ The style.css defines the appearance, animation, and specific styles for each no
 
 **Developed with ❤️ by VeryFlow - Very Development**
 
-Version: 2.0.0  
+Version: 1.0.0  
 Last update: 29/11/2025
 
 # 📝 License 

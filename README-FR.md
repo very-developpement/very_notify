@@ -128,5 +128,12 @@ Le fichier script.js écoute les messages envoyés depuis Lua (via SendNUIMessag
 
 Le style.css définit l'apparence, l'animation et les styles spécifiques à chaque type de notification.
 
+# 🎁 Crédits
+
+**Développé avec le ❤️ par VeryFlow | Very Developpement**
+
+Version : 1.0.0  
+Dernière mise à jour : 29/11/2025
+
 # 📝 Licence 
 Ce projet est sous licence MIT.
